@@ -1,0 +1,14 @@
+public class Books extends Items {
+    private String author;
+    private String isbn;
+    public Books(String name, int price, String author, String isbn) {
+        super(name, price);
+        this.author = author;
+        this.isbn = isbn;
+    }
+    @Override
+    public void print() {
+        super.print();
+        System.out.println("- 저자:" + author + ", isbn:" + isbn);
+    }
+}
