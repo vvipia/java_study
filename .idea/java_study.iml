@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/java_basic/7) java memory &amp; static/7-2) MathArrayUtils/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_basic/9) inheritance/9-1) Shopping Mall Item/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java_mid1/2) immutable object/2-1) Immutable MyDate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java_mid1/3) string class/3-1) StartsWith/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
